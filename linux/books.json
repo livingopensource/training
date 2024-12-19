@@ -4,5 +4,11 @@
     "description": "The Linux Commands Handbook follows the 80/20 rule: learn in 20% of the time the 80% of a topic.",
     "url": "https://bjpcjp.github.io/pdfs/devops/linux-commands-handbook.pdf",
     "type": "pdf"
+  },
+  {
+    "name": "The Linux Command Line",
+    "description": "A Complete Introduction",
+    "url": "https://stcformation.com/wp-content/uploads/2023/10/The-Linux-Command-Line-A-Complete-Introduction.pdf",
+	"type": "pdf"
   }
 ]
