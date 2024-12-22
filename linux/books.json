@@ -6,9 +6,9 @@
     "type": "pdf"
   },
   {
-    "name": "The Linux Command Line",
-    "description": "A Complete Introduction",
-    "url": "https://stcformation.com/wp-content/uploads/2023/10/The-Linux-Command-Line-A-Complete-Introduction.pdf",
+    "name": "The LFCS Crash Course",
+    "description": "An overview of the Linux Foundations Certified Systems Administrator exam",
+    "url": "https://lab.livingopensource.org/LFCS.pdf",
 	"type": "pdf"
   }
 ]
